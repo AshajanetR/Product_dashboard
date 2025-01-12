@@ -16,7 +16,7 @@ git clone https://github.com/AshajanetR/Product_dashboard.git
     
 3.  Install the client dependencies:
     ```
-    npm run dev 
+    npm install 
     ```
     
 4.  Start the client application:
